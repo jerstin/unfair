@@ -8,7 +8,7 @@ meteor
 
 Deploy on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://unfair.herokuapp.com/deploy/button.png)](https://heroku.com/deploy)
 
 Note: if you get a `$ROOT_URL, if specified, must be an URL.` error on deployment, double-check that you're providing the correct URL (typically `http://your-app-name-here.herokuapp.com`).
 
