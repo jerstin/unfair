@@ -14,4 +14,4 @@ Note: if you get a `$ROOT_URL, if specified, must be an URL.` error on deploymen
 
 Deploy on Scalingo:
 
-[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/TelescopeJS/sample-project/)
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/TelescopeJS/sample-project/)# unfair
