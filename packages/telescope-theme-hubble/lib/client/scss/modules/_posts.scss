@@ -334,11 +334,10 @@
 		}
 	}
 	.vote-actions{
-		border: 1px solid $lighter-text;
-		border-radius: 100px;
+		border: none;
 	}
 	.downvote-link{
-		border-top: 1px solid $lighter-text;
+		border-top: none;
 	}
 	.vote-action{
 		padding: 2px 3px;
@@ -534,7 +533,7 @@
 }
 .post-body, .page-body {
 	@extend .has-shadow;
-	border-radius: 3px;
+	border-radius: 0px;
 	margin-bottom: 10px;
 	background: white;
 	padding: 20px;
