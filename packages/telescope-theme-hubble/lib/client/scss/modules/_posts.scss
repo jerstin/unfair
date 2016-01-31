@@ -151,7 +151,7 @@
 	}
 	.post-avatars {
 		order: 6;
-		@include medium {
+		@include small {
 			display: none;
 		}
 	}
@@ -436,8 +436,8 @@
 .post-author {
 	.avatar {
 		display: inline-block;
-		width: 40px;
-		height: 40px;
+		width: 20px;
+		height: 20px;
 		vertical-align: middle;
 		margin-right: 5px;
 	}
