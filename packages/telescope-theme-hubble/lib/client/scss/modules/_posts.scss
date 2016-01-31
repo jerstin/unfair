@@ -310,20 +310,18 @@
 .post-module.post-rank {
 	margin: 0;
 }
-.post{
-	.icon{
-		font-size: 6em;
-	}
-}
-.post-vote {
-	@include small{
-		text-align: center;
-	}
-	.voted{
-		.vote-action{
-			color: $lighter-text;
+.post   {
+	.icon{	; }
+	.icon fa fa-fw fa-smile-o icon-upvote
+		{ font-size: 6em;
+		color: #ccc;
+		padding: none;}
+	.icon fa fa-fw fa-frown-o icon-upvote
+		{ font-size: 6em;
+		color: #ccc;
+		padding: none;}
 		}
-	}
+.post-vote { @include small{text-align: center;	} .voted{.vote-action{color: $lighter-text;	}}
 	.upvoted{
 		.upvote-link{
 			color: $red;
